@@ -8,5 +8,4 @@ h1 até h6, p, mark, small, i, u, strong, ol, ul, li, a, hr, sub, sup, blockquot
 ## Utilizar novas tags sugeridas: 
 font, del, p, abbr (a ideia é buscar estas tags na internet, entender como ela funciona e utilizar no texto).
 
-## Obs:
-Alguma das tags sugeridas não consegui compreender, portanto não utilizei.
+
